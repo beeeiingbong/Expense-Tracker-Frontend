@@ -14,7 +14,12 @@
       "package": "com.yourname.expensetracker",
       "permissions": ["READ_SMS"]
     },
-    "plugins": ["expo-secure-store", "expo-font", "expo-status-bar"],
+    "plugins": [
+      "expo-secure-store",
+      "expo-font",
+      "expo-status-bar",
+      "./withFixJcenter"
+    ],
     "extra": {
       "eas": {
         "projectId": "03db0276-8992-4f01-98e1-245e4d022a3b"
