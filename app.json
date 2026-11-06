@@ -8,10 +8,10 @@
     "scheme": "expensetracker",
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.yourname.expensetracker"
+      "bundleIdentifier": "com.anikjana.expensetrackerBuild001"
     },
     "android": {
-      "package": "com.yourname.expensetracker",
+      "package": "com.anikjana.expensetrackerBuild001",
       "permissions": ["READ_SMS"]
     },
     "plugins": [
