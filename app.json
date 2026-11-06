@@ -12,6 +12,7 @@
     },
     "android": {
       "package": "com.anikjana.expensetrackerBuild001",
+      "versionCode": 3,
       "permissions": ["READ_SMS"]
     },
     "plugins": [
